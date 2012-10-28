@@ -8,6 +8,7 @@
 # Java class files
 *.class
 
+# There are many cases that we need to know
 # generated files
 bin/
 gen/
